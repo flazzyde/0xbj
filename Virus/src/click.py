@@ -1,5 +1,5 @@
 from pynput import mouse
-from playsound import playsound
+from playsound3 import playsound
 import threading
 
 def on_click(x, y, button, pressed):
