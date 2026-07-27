@@ -8,7 +8,7 @@ import src.click
 import src.edge
 import src.errors
 import src.familyguy
-import src.fastmouse
+import src.slowmouse
 import src.files
 import src.gtav
 import src.satisfying
